@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I am a title
-description: I am now a description that I should be able to change.
+description: Now when I change it here. I can do this.
 hello: So I create boxes here but how do I edit them
 permalink: /about/
 ---
