@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 Hello
+{{ site.description }}
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
