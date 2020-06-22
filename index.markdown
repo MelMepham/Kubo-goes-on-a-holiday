@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-food: I am some food
+food: Now will this change?
 ---
+
 <h1>{{ page.food }}</h1>
