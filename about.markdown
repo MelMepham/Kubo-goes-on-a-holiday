@@ -6,4 +6,4 @@ hello: So I create boxes here but how do I edit them
 permalink: /about/
 ---
 
-Hello
+{{ page.description }}
